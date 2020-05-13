@@ -3,7 +3,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Michael Lee"
 theme = "hermit"
-publishDir = "docs"
+
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
@@ -13,6 +13,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
+
+publishDir = "docs/"
 
 [author]
   name = "Michael Lee"
