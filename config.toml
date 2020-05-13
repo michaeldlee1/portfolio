@@ -1,9 +1,9 @@
 baseURL = "www.mlee43.me"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-publishDir = "docs"
 title = "Michael Lee"
 theme = "hermit"
+publishDir = "docs"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
