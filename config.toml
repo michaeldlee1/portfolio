@@ -1,6 +1,7 @@
 baseURL = "https://mlee43.me"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+publishDir = "docs"
 title = "Michael Lee"
 theme = "hermit"
 # enableGitInfo = true
