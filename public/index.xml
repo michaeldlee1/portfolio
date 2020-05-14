@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Lee</title>
+    <link>https://www.mlee43.me/</link>
+    <description>Recent content on Michael Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.mlee43.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://www.mlee43.me/blog/my-first-post/</link>
+      <pubDate>Mon, 11 May 2020 14:33:01 -0400</pubDate>
+      
+      <guid>https://www.mlee43.me/blog/my-first-post/</guid>
+      <description>Welcome to my blog! I created this website using the Hugo theme Hermit and I plan to use it to document my projects both extracurricular and in class. I have many projects planned this summer and will be frequently posting about them here!</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.mlee43.me/projects/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mlee43.me/projects/</guid>
+      <description>Overview This is where I will keep track of my completed projects (in reverse chronological order), with broad explanations of their development process as well as links to their respective git repositories.
+&amp;ldquo;Spidey&amp;rdquo; Web Server   Gitlab: cse-20289-sp20-project (private repository)
+  This was the final project for my Systems Programming course in the Spring of 2020. The project entailed the creation of a functional web server (called spidey) writtten in C which can handle multiple requests at atime and perform file directory, and cgi requests.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.mlee43.me/about_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mlee43.me/about_me/</guid>
+      <description>I am an undergraduate Computer Science major at the University of Notre Dame, graduating in 2022. When I am not in class or doing homework you can most likely find me at water polo practice, reading, or writing. I am a very dedicated, hardworking individual and am always eager to learn new things.
+You can reach me via email at mlee43@nd.edu</description>
+    </item>
+    
+  </channel>
+</rss>

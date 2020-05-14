@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Michael Lee</title>
+    <link>https://www.mlee43.me/blog/</link>
+    <description>Recent content in Blogs on Michael Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 11 May 2020 14:33:01 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.mlee43.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://www.mlee43.me/blog/my-first-post/</link>
+      <pubDate>Mon, 11 May 2020 14:33:01 -0400</pubDate>
+      
+      <guid>https://www.mlee43.me/blog/my-first-post/</guid>
+      <description>Welcome to my blog! I created this website using the Hugo theme Hermit and I plan to use it to document my projects both extracurricular and in class. I have many projects planned this summer and will be frequently posting about them here!</description>
+    </item>
+    
+  </channel>
+</rss>
